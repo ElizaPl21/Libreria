@@ -1,0 +1,22 @@
+.container-fluid{
+    background-color: black;
+}
+.nav-link{
+    color: white;
+  cursor: pointer;
+    transition: color 0.5s;
+}
+   
+.nav-link:hover {
+    background-color: rgb(8, 103, 21);
+  }
+
+.logo{
+    width:30px;
+
+}
+
+
+.titulo{
+    text-align: center;
+}
