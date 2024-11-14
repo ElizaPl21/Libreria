@@ -23,7 +23,8 @@
 > ### Pasos para usar GitPages
 > - Crear nuestro repositorio
 > - Una vez creado nuestro repositorio iremos a settings
-> - Le damos en la opci+on que dice pages
+> - Le damos en la opción que dice pages
+> - Una vez dentro seleccionamos main y damos guardar
 > - Esperamos unos segundos a que cargue
 > - obtenedremos el link de nuestra página
 > - Estos son los pasos para hacer el deploy de nuestra página en git 
